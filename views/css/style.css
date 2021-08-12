@@ -1,0 +1,66 @@
+.cabecero {
+    /* 
+    z-index: -10;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    width: 100%;
+    */
+    color: #fff;
+    background: url(fondo.png), #0D1117;
+    background: url(fondo.png), -webkit-gradient(linear, right top, left top, from(#0d1030), to(#08022b));
+    background: url(fondo.png), linear-gradient(to left, #0D1117, #0D1117)
+}
+
+.coloraside1 {
+    color: #fff;
+    background: url(fondo.png), #0D1117;
+    background: url(fondo.png), -webkit-gradient(linear, right top, left top, from(#0d1030), to(#08022b));
+    background: url(fondo.png), linear-gradient(to left, #0D1117, #0D1117)
+}
+
+.coloraside {
+    background-color: #0D1117 !important;
+    color: #fff !important;
+}
+
+footer {
+    text-align: center;
+    background-color: #0D1117 !important;
+    color: #fff !important;
+}
+
+content-home {
+    background-color: #0D1117 !important;
+}
+
+.coloraside1 section,
+.coloraside1 section ol li,
+.coloraside1 section h1 small {
+    color: #fff !important;
+}
+
+.breadcrumb li a {
+    color: #fff !important;
+    font-size: 15px
+}
+
+.containerDanger .btnDeleteUser .btnDeleteProduct .btnDeleteClient {
+    display: none;
+}
+
+.btn-salir {
+    background-color: #0D1117 !important;
+    color: #fff !important;
+}
+
+#newCategory option {
+    color: #000 !important;
+}
+
+
+/* .btn-danger {
+} */
